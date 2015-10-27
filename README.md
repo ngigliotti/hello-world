@@ -1,2 +1,5 @@
 # hello-world
-This is the hello-world tutorial repository
+
+Hi!
+
+Nick here
